@@ -1,0 +1,11 @@
+{
+    "name": "edmondscommerce/magento2styleguide",
+    "description": "A style guide module for Magento 2",
+    "authors": [
+        {
+            "name": "Ken",
+            "email": "ken@edmondscommerce.co.uk"
+        }
+    ],
+    "require": {}
+}
