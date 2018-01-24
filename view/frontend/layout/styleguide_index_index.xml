@@ -1,4 +1,7 @@
-<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd" layout="1column">
+    <head>
+        <title>Style Guide</title>
+    </head>
     <body>
         <referenceContainer name="content">
             <block class="Magento\Framework\View\Element\Template" template="EdmondsCommerce_Magento2StyleGuide::widgets.phtml" name="styleguide_widgets" />
